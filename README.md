@@ -42,8 +42,8 @@
 |     skils         |     level    |   
 |-------------------|--------------|
 |•       C++        |   beginner   |  
-|•      Arduino     | strawberry   | 
-|•     PCB Design   |   matcha     | 
+|•      Arduino     |   beginner   | 
+|•     PCB Design   |   beginner   | 
 |• Schematic design |              |
 
 
