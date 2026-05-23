@@ -38,9 +38,15 @@ Email:areanborbon4@gmail.com
          adobo with potatoes 
 
  
-      **My favourite colors are**
+     **My favourite colors are**
 
-         🔌 Projects🖥️
+           🌊 Blue
+           🍃 Green 
+           👾 Purple
+
+     
+
+        **🔌 Projects🖥️**
  
         making teaser gun🔫
 
