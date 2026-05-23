@@ -1,24 +1,24 @@
-#🙋🏻‍♀️I am Arean N.Borbon🧏🏻‍♀️🧔🏻‍♀️
+    #🙋🏻‍♀️I am Arean N.Borbon🧏🏻‍♀️🧔🏻‍♀️
 
      20 years old🤪
 
    currently a student of
-** BSCE Fullbright college **
+   ** BSCE Fullbright college **
 
-Sicsican,Rampanu, Puerto Princesa City 
-
-
-
-      My hobies are;
+   Sicsican,Rampanu, Puerto Princesa City 
 
 
-     ⚽Playing Futsal
 
-   🍉eating so much food🍱
+         My hobies are;
 
-    badminton with niggas🏸
 
-     🥘 cooking,baking 🥨🍪
+       ⚽Playing Futsal
+
+     🍉eating so much food🍱
+
+      badminton with niggas🏸
+   
+       🥘 cooking,baking 🥨🍪
 
 
 
@@ -32,11 +32,11 @@ Sicsican,Rampanu, Puerto Princesa City
  
  
 
-    Projects
+         Projects
  
-    making teaser gun
+       making teaser gun
 
-    schematic 
+       schematic 
 
 
 
