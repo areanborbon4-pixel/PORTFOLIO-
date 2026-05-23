@@ -1,11 +1,11 @@
     #🙋🏻‍♀️I am Arean N.Borbon🧏🏻‍♀️🧔🏻‍♀️
 
          20 years old🤪
-       currently a student of
-     ** BSELE Fullbright college **
-
          Sicsican,Rampanu,
         Puerto Princesa City 
+
+       currently a student of
+     ** BSELE Fullbright college **
 
 
 
