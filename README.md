@@ -2,10 +2,11 @@
 
      20 years old🤪
 
-   currently a student of
-   ** BSCE Fullbright college **
+       currently a student of
+     ** BSCE Fullbright college **
 
-   Sicsican,Rampanu, Puerto Princesa City 
+         Sicsican,Rampanu,
+        Puerto Princesa City 
 
 
 
