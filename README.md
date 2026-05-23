@@ -2,7 +2,7 @@
      
            **About me**
           im Arean borbon
-          20 years old🤪
+          20 years old
          Sicsican,Rampanu,
       📍Puerto Princesa City 
 
