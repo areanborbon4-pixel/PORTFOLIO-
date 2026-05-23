@@ -31,26 +31,29 @@ Email:areanborbon4@gmail.com
 
       **My favourite foods are;🤷🏻‍♀️**
 
-             skabetche
-
-           pork sisig
-
-         adobo with potatoes 
-
- 
-     **My favourite colors are**
-
-           🌊 Blue
-           🍃 Green 
-           👾 Purple
+              
+|   foods   |   drinks     |    color  |   
+_______________________________________|
+| skabetche | wintermelon  |  🌊 Blue  |
+|pork sisig | strawberry   |  🍃 Green |
+| adobo     |   matcha     | 👾 Purple |
 
      
 
         **🔌 Projects🖥️**
  
-        making teaser gun🔫
+            Teaser gun🔫
 
-            schematic 
+        Smart tollgate pass
+
+         EasyEDA schematic 
+
+       ESPE32 expansion board
+
+  Arduino LED Blinking using tingkercad
+
+        
+             
 
 
 
