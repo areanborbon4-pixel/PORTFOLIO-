@@ -1,22 +1,26 @@
 #🙋🏻‍♀️I am Arean N.Borbon🧏🏻‍♀️🧔🏻‍♀️
+
    20 years old🤪
-** sicsican rampanuno **
+
+sicsican rampanuno
+
+
 
 My hobies are:
 
-**'⚽Playing Futsal'**
+⚽Playing Futsal
 
 
-**'🍉eating so much food🍱**
+🍉eating so much food🍱
 
-**'badminton with niggas🏸'**
+badminton with niggas🏸
 
-**' 🥘cooking,baking 🥨🍪'**
+🥘cooking,baking 🥨🍪
 
 
 ** BSCE Fullbright college **
 
-**Food**
+my favourite foods are;
 
 –skabetche
 
