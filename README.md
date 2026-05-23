@@ -14,11 +14,11 @@ Sicsican,Rampanu, Puerto Princesa City
 
      ⚽Playing Futsal
 
-  🍉eating so much food🍱
+   🍉eating so much food🍱
 
-   badminton with niggas🏸
+    badminton with niggas🏸
 
-    🥘 cooking,baking 🥨🍪
+     🥘 cooking,baking 🥨🍪
 
 
 
@@ -28,14 +28,15 @@ Sicsican,Rampanu, Puerto Princesa City
 
          –pork sisig
 
-     –adobo with potatoes 
+        –adobo with potatoes 
+ 
  
 
     Projects
  
-making teaser gun
+    making teaser gun
 
-schematic 
+    schematic 
 
 
 
