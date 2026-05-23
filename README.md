@@ -4,7 +4,7 @@
           im Arean borbon
           20 years old
          Sicsican,Rampanu,
-      📍Puerto Princesa City 
+       Puerto Princesa City 
 
        currently a student of
      ** BSELE Fullbright college **
@@ -12,32 +12,44 @@
            
           **Contacts**
      Cellphone no.:09297276227
-    E-mail📭:areanborbon4@gmail.com
+    E-mail:areanborbon4@gmail.com
 
          
+        
+
+            dream big, 
+           live your life 
+       be the happiest person
+          everysingle day
+        
+             
+
+
+
+
 
 
 
            My hobies are;
 
-         ⚽Playing Futsal
+         Playing Futsal
 
-      🍉eating so much food🍱
+      eating so much food
 
-      badminton with niggas🏸
+      badminton with niggas
    
-       🥘 cooking,baking 🥨🍪
+       cooking,baking 
 
 
 
-      **'My favourite foods are🤷🏻‍♀️'**
+      **'My favourite foods are'**
 
               
 |   foods   |   drinks     |    color  |   
 |-----------|--------------|-----------|
-|•skabetche | wintermelon  |  🌊 Blue  |
-|•pork sisig| strawberry   |  🍃 Green |
-|•  adobo   |   matcha     | 👾 Purple |
+|•skabetche | wintermelon  |     Blue  |
+|•pork sisig| strawberry   |   Green   |
+|•  adobo   |   matcha     |  Purple   |
 
 |     skils         |     level    |   
 |-------------------|--------------|
@@ -47,9 +59,9 @@
 |• Schematic design |   beginner   |
 
 
-        **🔌 Projects🖥️**
+        ** Projects**
  
-            Teaser gun🔫
+            Teaser gun
 
         Smart tollgate pass
 
@@ -64,7 +76,7 @@
           
 
 
-         🔮My future goalsl📌
+           My future goals
 
 
        i would say to become a
@@ -74,11 +86,7 @@
   
 
 
-           🪷dream big, 
-           live your life 
-       be the happiest person
-          everysingle day
-        
+           
              
 
 
