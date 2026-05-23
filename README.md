@@ -1,11 +1,18 @@
-# Arean N.Borbon
-**'Playing Futsal'**
-**'eating so much food**
-**'badminton with niggas'**
-**' cooking,baking '**
-
-
+#🙋🏻‍♀️I am Arean N.Borbon🧏🏻‍♀️🧔🏻‍♀️
+   20 years old🤪
 ** sicsican rampanuno **
+
+My hobies are:
+
+**'⚽Playing Futsal'**
+
+
+**'🍉eating so much food🍱**
+
+**'badminton with niggas🏸'**
+
+**' 🥘cooking,baking 🥨🍪'**
+
 
 ** BSCE Fullbright college **
 
@@ -18,8 +25,10 @@
 –adobo with potatoes 
  
 
-    Projects 
+    Projects
+ 
 making teaser gun
+
 schematic 
 
 
