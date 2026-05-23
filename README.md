@@ -35,8 +35,8 @@ Email:areanborbon4@gmail.com
 |   foods   |   drinks     |    color  |   
 _______________________________________|
 | skabetche | wintermelon  |  🌊 Blue  |
-|pork sisig | strawberry   |  🍃 Green |
-| adobo     |   matcha     | 👾 Purple |
+| pork sisig| strawberry   |  🍃 Green |
+|   adobo   |   matcha     | 👾 Purple |
 
      
 
