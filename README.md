@@ -1,91 +1,36 @@
-# Arean N.Borbon
-     
-           **About me**
-          im Arean borbon
-          20 years old
-         Sicsican,Rampanu,
-       Puerto Princesa City 
+# project Tittle 
 
-       currently a student of
-     ** BSELE Fullbright college **
+---
 
-           
-          **Contacts**
-     Cellphone no.:09297276227
-    E-mail:areanborbon4@gmail.com
-
-         
-        
-
-            dream big, 
-           live your life 
-       be the happiest person
-          everysingle day
-        
-             
+- ESP32 Expansion Board
 
 
+## Project Description
+The ESP32 Expansion Board is a custom-designed board that enhances the functionality and accessibility of the ESP32 microcontroller. It allows easier connection of sensors, modules, and other electronic components through organized pin layouts and stable power distribution. This project is intended for IoT applications, embedded systems development, prototyping, and educational purposes.
 
+## Features
+- Easy access to ESP32 GPIO pins  
+- Organized pin connections for sensors and modules  
+- Stable power distribution  
+- Supports rapid prototyping for IoT projects  
+- Compact and user-friendly PCB layout  
 
+## Components Used
+- ESP32 Module  
+- Pin Headers  
+- Capacitors  
+- Resistors  
+- LEDs  
+- Voltage Regulator (if applicable)  
+- PCB Board  
 
+## Software Used
+- EasyEDA  
+- KiCad (if used)  
+- Arduino IDE  
 
-
-           My hobies are;
-
-         Playing Futsal
-
-        eating so much food
-
-    badminton with my brother 
-   
-          cooking,baking 
-
-
-
-      **'My favourite foods are'**
-
-              
-|   foods   |   drinks     |    color  |   
-|-----------|--------------|-----------|
-|•skabetche | wintermelon  |     Blue  |
-|•pork sisig| strawberry   |   Green   |
-|•  adobo   |   matcha     |  Purple   |
-
-
-          ** Projects**
- 
-            Teaser gun
-
-        Smart tollgate pass
-
-         EasyEDA schematic 
-
-       ESPE32 expansion board
-
-|     skils         |     level    |   
-|-------------------|--------------|
-|•       C++        |   beginner   |  
-|•      Arduino     |   beginner   | 
-|•     PCB Design   |   beginner   | 
-|• Schematic design |   beginner   |
-
-
-        
-          
-
-
-           My future goals
-
-
-       i would say to become a
-        successful engineer and
-         to repay all hardwork 
-            of my parents 
-  
-
-
-           
-             
+## Author Name
+*Arean N. Borbon*
 
 
 
